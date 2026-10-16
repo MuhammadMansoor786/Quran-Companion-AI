@@ -1,0 +1,6 @@
+{
+  "name": "Quran Companion AI",
+  "description": "Smart AI-powered Quran memorization, recitation error checking, audio listening companion, authentic statistics, and Masnoon Duain.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
